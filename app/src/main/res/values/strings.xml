@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Intermediate</string>
+    <string name="title_home">Home</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="detail">Detail</string>
+    <string name="no_internet">No Internet</string>
+    <string name="back_to_previous_menu">Back to previous menu</string>
+    <string name="user_profile">User profile</string>
+    <string name="user_post">User post</string>
+    <string name="intermediate_logo">Intermediate logo</string>
+    <string name="enter_email">Enter email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="post_your_story">Post Your Story</string>
+    <string name="post_description">Post description</string>
+    <string name="upload">Upload</string>
+    <string name="show_camera_and_gallery_menu">Show camera and gallery menu</string>
+    <string name="upload_story_with_camera">Upload story with camera</string>
+    <string name="upload_story_with_gallery">Upload story with gallery</string>
+    <string name="settings_menu">Settings menu</string>
+    <string name="settings">Settings</string>
+    <string name="change_language">Change language</string>
+    <string name="logout">Logout</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_name">Enter name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+</resources>

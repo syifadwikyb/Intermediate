@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intermediate</string>
+    <string name="title_home">Beranda</string>
+    <string name="invalid_password">Password tidak valid</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="detail">Detail</string>
+    <string name="no_internet">Tidak ada internet</string>
+    <string name="back_to_previous_menu">Kembali ke menu sebelumnya</string>
+    <string name="user_profile">Profil pengguna</string>
+    <string name="user_post">Postingan pengguna</string>
+    <string name="intermediate_logo">Intermediate logo</string>
+    <string name="enter_email">Masukkan email</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="post_your_story">Unggah postingan kamu</string>
+    <string name="post_description">Deskripsi postingan</string>
+    <string name="upload">Unggah</string>
+    <string name="show_camera_and_gallery_menu">Munculkan menu kamera dan galeri</string>
+    <string name="upload_story_with_camera">Unggah postingan dengan kamera</string>
+    <string name="upload_story_with_gallery">Unggah postingan dengan galeri</string>
+    <string name="settings_menu">Menu pengaturan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="change_language">Ubah bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="enter_password">Masukkan password</string>
+    <string name="enter_name">Masukkan nama</string>
+    <string name="confirm_password">Konfirmasi password</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="are_you_sure_you_want_to_exit">Apakah kamu yakin ingin keluar?</string>
+</resources>
